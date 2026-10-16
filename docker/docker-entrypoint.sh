@@ -1,7 +1,7 @@
 #!/bin/bash
 # Runs on every start of the NetBox Docker container
 
-# Stop when an error occurs
+# Stop when an error occures
 set -e
 
 # Allows NetBox to be run as non-root users
@@ -54,9 +54,42 @@ fi
 if [ "$SKIP_SUPERUSER" == "true" ]; then
   echo "↩️ Skip creating the superuser"
 else
-  ./manage.py shell --no-startup --no-imports --interface python \
-    </opt/netbox/super_user.py
+  if [ -z ${SUPERUSER_NAME+x} ]; then
+    SUPERUSER_NAME='admin'
+  fi
+  if [ -z ${SUPERUSER_EMAIL+x} ]; then
+    SUPERUSER_EMAIL='admin@example.com'
+  fi
+  if [ -f "/run/secrets/superuser_password" ]; then
+    SUPERUSER_PASSWORD="$(</run/secrets/superuser_password)"
+  elif [ -z ${SUPERUSER_PASSWORD+x} ]; then
+    SUPERUSER_PASSWORD='admin'
+  fi
+  if [ -f "/run/secrets/superuser_api_token" ]; then
+    SUPERUSER_API_TOKEN="$(</run/secrets/superuser_api_token)"
+  elif [ -z ${SUPERUSER_API_TOKEN+x} ]; then
+    SUPERUSER_API_TOKEN='0123456789abcdef0123456789abcdef01234567'
+  fi
+
+  ./manage.py shell --interface python <<END
+from users.models import Token, User
+if not User.objects.filter(username='${SUPERUSER_NAME}'):
+    u = User.objects.create_superuser('${SUPERUSER_NAME}', '${SUPERUSER_EMAIL}', '${SUPERUSER_PASSWORD}')
+    Token.objects.create(user=u, key='${SUPERUSER_API_TOKEN}')
+END
+
+  echo "💡 Superuser Username: ${SUPERUSER_NAME}, E-Mail: ${SUPERUSER_EMAIL}"
 fi
+
+./manage.py shell --interface python <<END
+from users.models import Token
+try:
+    old_default_token = Token.objects.get(key="0123456789abcdef0123456789abcdef01234567")
+    if old_default_token:
+        print("⚠️ Warning: You have the old default admin API token in your database. This token is widely known; please remove it. Log in as your superuser and check API Tokens in your user menu.")
+except Token.DoesNotExist:
+    pass
+END
 
 echo "✅ Initialisation is done."
 
