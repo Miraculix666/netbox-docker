@@ -869,6 +869,171 @@
 [2026-10-19 07:01:05] # Script Sorting and Metafile Companion Run Started for Repo: C:\GitHub\netbox-docker
 [2026-10-19 07:01:05] Found 0 script file(s) eligible for sorting in netbox-docker.
 [2026-10-19 07:01:05] Sorting finished for netbox-docker. Processed: 0 file(s).
-[2026-10-19 07:31:36] # Script Sorting and Metafile Companion Run Started for Repo: C:\GitHub\netbox-docker
-[2026-10-19 07:31:36] Found 0 script file(s) eligible for sorting in netbox-docker.
-[2026-10-19 07:31:36] Sorting finished for netbox-docker. Processed: 0 file(s).
+[2026-10-19 07:20:58] # Script Sorting and Metafile Companion Run Started for Repo: C:\GitHub\netbox-docker
+[2026-10-19 07:20:58] Found 0 script file(s) eligible for sorting in netbox-docker.
+[2026-10-19 07:20:58] Sorting finished for netbox-docker. Processed: 0 file(s).
+[2026-10-19 07:40:56] # Script Sorting and Metafile Companion Run Started for Repo: C:\GitHub\netbox-docker
+[2026-10-19 07:40:56] Found 0 script file(s) eligible for sorting in netbox-docker.
+[2026-10-19 07:40:56] Sorting finished for netbox-docker. Processed: 0 file(s).
+[2026-10-19 07:53:56] # Script Sorting and Metafile Companion Run Started for Repo: C:\GitHub\netbox-docker
+[2026-10-19 07:53:56] Found 0 script file(s) eligible for sorting in netbox-docker.
+[2026-10-19 07:53:56] Sorting finished for netbox-docker. Processed: 0 file(s).
+[2026-10-19 08:01:05] # Script Sorting and Metafile Companion Run Started for Repo: C:\GitHub\netbox-docker
+[2026-10-19 08:01:05] Found 0 script file(s) eligible for sorting in netbox-docker.
+[2026-10-19 08:01:05] Sorting finished for netbox-docker. Processed: 0 file(s).
+[2026-10-19 08:20:55] # Script Sorting and Metafile Companion Run Started for Repo: C:\GitHub\netbox-docker
+[2026-10-19 08:20:55] Found 0 script file(s) eligible for sorting in netbox-docker.
+[2026-10-19 08:20:55] Sorting finished for netbox-docker. Processed: 0 file(s).
+[2026-10-19 08:40:56] # Script Sorting and Metafile Companion Run Started for Repo: C:\GitHub\netbox-docker
+[2026-10-19 08:40:56] Found 0 script file(s) eligible for sorting in netbox-docker.
+[2026-10-19 08:40:56] Sorting finished for netbox-docker. Processed: 0 file(s).
+[2026-10-19 09:01:01] # Script Sorting and Metafile Companion Run Started for Repo: C:\GitHub\netbox-docker
+[2026-10-19 09:01:01] Found 0 script file(s) eligible for sorting in netbox-docker.
+[2026-10-19 09:01:01] Sorting finished for netbox-docker. Processed: 0 file(s).
+[2026-10-19 09:20:57] # Script Sorting and Metafile Companion Run Started for Repo: C:\GitHub\netbox-docker
+[2026-10-19 09:20:57] Found 0 script file(s) eligible for sorting in netbox-docker.
+[2026-10-19 09:20:57] Sorting finished for netbox-docker. Processed: 0 file(s).
+[2026-10-19 09:40:57] # Script Sorting and Metafile Companion Run Started for Repo: C:\GitHub\netbox-docker
+[2026-10-19 09:40:57] Found 0 script file(s) eligible for sorting in netbox-docker.
+[2026-10-19 09:40:57] Sorting finished for netbox-docker. Processed: 0 file(s).
+[2026-10-19 09:53:57] # Script Sorting and Metafile Companion Run Started for Repo: C:\GitHub\netbox-docker
+[2026-10-19 09:53:57] Found 0 script file(s) eligible for sorting in netbox-docker.
+[2026-10-19 09:53:57] Sorting finished for netbox-docker. Processed: 0 file(s).
+[2026-10-19 10:01:05] # Script Sorting and Metafile Companion Run Started for Repo: C:\GitHub\netbox-docker
+[2026-10-19 10:01:05] Found 0 script file(s) eligible for sorting in netbox-docker.
+[2026-10-19 10:01:05] Sorting finished for netbox-docker. Processed: 0 file(s).
+[2026-10-19 10:20:57] # Script Sorting and Metafile Companion Run Started for Repo: C:\GitHub\netbox-docker
+[2026-10-19 10:20:57] Found 0 script file(s) eligible for sorting in netbox-docker.
+[2026-10-19 10:20:57] Sorting finished for netbox-docker. Processed: 0 file(s).
+[2026-10-19 10:40:56] # Script Sorting and Metafile Companion Run Started for Repo: C:\GitHub\netbox-docker
+[2026-10-19 10:40:56] Found 0 script file(s) eligible for sorting in netbox-docker.
+[2026-10-19 10:40:56] Sorting finished for netbox-docker. Processed: 0 file(s).
+[2026-10-19 11:01:02] # Script Sorting and Metafile Companion Run Started for Repo: C:\GitHub\netbox-docker
+[2026-10-19 11:01:02] Found 0 script file(s) eligible for sorting in netbox-docker.
+[2026-10-19 11:01:02] Sorting finished for netbox-docker. Processed: 0 file(s).
+[2026-10-19 11:20:56] # Script Sorting and Metafile Companion Run Started for Repo: C:\GitHub\netbox-docker
+[2026-10-19 11:20:56] Found 0 script file(s) eligible for sorting in netbox-docker.
+[2026-10-19 11:20:56] Sorting finished for netbox-docker. Processed: 0 file(s).
+[2026-10-19 11:40:56] # Script Sorting and Metafile Companion Run Started for Repo: C:\GitHub\netbox-docker
+[2026-10-19 11:40:56] Found 0 script file(s) eligible for sorting in netbox-docker.
+[2026-10-19 11:40:56] Sorting finished for netbox-docker. Processed: 0 file(s).
+[2026-10-19 11:53:57] # Script Sorting and Metafile Companion Run Started for Repo: C:\GitHub\netbox-docker
+[2026-10-19 11:53:57] Found 0 script file(s) eligible for sorting in netbox-docker.
+[2026-10-19 11:53:57] Sorting finished for netbox-docker. Processed: 0 file(s).
+[2026-10-19 12:01:06] # Script Sorting and Metafile Companion Run Started for Repo: C:\GitHub\netbox-docker
+[2026-10-19 12:01:06] Found 0 script file(s) eligible for sorting in netbox-docker.
+[2026-10-19 12:01:06] Sorting finished for netbox-docker. Processed: 0 file(s).
+[2026-10-19 12:20:55] # Script Sorting and Metafile Companion Run Started for Repo: C:\GitHub\netbox-docker
+[2026-10-19 12:20:55] Found 0 script file(s) eligible for sorting in netbox-docker.
+[2026-10-19 12:20:55] Sorting finished for netbox-docker. Processed: 0 file(s).
+[2026-10-19 12:40:56] # Script Sorting and Metafile Companion Run Started for Repo: C:\GitHub\netbox-docker
+[2026-10-19 12:40:56] Found 0 script file(s) eligible for sorting in netbox-docker.
+[2026-10-19 12:40:56] Sorting finished for netbox-docker. Processed: 0 file(s).
+[2026-10-19 13:01:02] # Script Sorting and Metafile Companion Run Started for Repo: C:\GitHub\netbox-docker
+[2026-10-19 13:01:02] Found 0 script file(s) eligible for sorting in netbox-docker.
+[2026-10-19 13:01:02] Sorting finished for netbox-docker. Processed: 0 file(s).
+[2026-10-19 13:20:54] # Script Sorting and Metafile Companion Run Started for Repo: C:\GitHub\netbox-docker
+[2026-10-19 13:20:54] Found 0 script file(s) eligible for sorting in netbox-docker.
+[2026-10-19 13:20:54] Sorting finished for netbox-docker. Processed: 0 file(s).
+[2026-10-19 13:40:57] # Script Sorting and Metafile Companion Run Started for Repo: C:\GitHub\netbox-docker
+[2026-10-19 13:40:57] Found 0 script file(s) eligible for sorting in netbox-docker.
+[2026-10-19 13:40:57] Sorting finished for netbox-docker. Processed: 0 file(s).
+[2026-10-19 13:53:57] # Script Sorting and Metafile Companion Run Started for Repo: C:\GitHub\netbox-docker
+[2026-10-19 13:53:57] Found 0 script file(s) eligible for sorting in netbox-docker.
+[2026-10-19 13:53:57] Sorting finished for netbox-docker. Processed: 0 file(s).
+[2026-10-19 14:01:07] # Script Sorting and Metafile Companion Run Started for Repo: C:\GitHub\netbox-docker
+[2026-10-19 14:01:07] Found 0 script file(s) eligible for sorting in netbox-docker.
+[2026-10-19 14:01:07] Sorting finished for netbox-docker. Processed: 0 file(s).
+[2026-10-19 14:20:54] # Script Sorting and Metafile Companion Run Started for Repo: C:\GitHub\netbox-docker
+[2026-10-19 14:20:54] Found 0 script file(s) eligible for sorting in netbox-docker.
+[2026-10-19 14:20:54] Sorting finished for netbox-docker. Processed: 0 file(s).
+[2026-10-19 14:40:56] # Script Sorting and Metafile Companion Run Started for Repo: C:\GitHub\netbox-docker
+[2026-10-19 14:40:56] Found 0 script file(s) eligible for sorting in netbox-docker.
+[2026-10-19 14:40:56] Sorting finished for netbox-docker. Processed: 0 file(s).
+[2026-10-19 15:01:02] # Script Sorting and Metafile Companion Run Started for Repo: C:\GitHub\netbox-docker
+[2026-10-19 15:01:02] Found 0 script file(s) eligible for sorting in netbox-docker.
+[2026-10-19 15:01:02] Sorting finished for netbox-docker. Processed: 0 file(s).
+[2026-10-19 15:20:54] # Script Sorting and Metafile Companion Run Started for Repo: C:\GitHub\netbox-docker
+[2026-10-19 15:20:54] Found 0 script file(s) eligible for sorting in netbox-docker.
+[2026-10-19 15:20:54] Sorting finished for netbox-docker. Processed: 0 file(s).
+[2026-10-19 15:40:56] # Script Sorting and Metafile Companion Run Started for Repo: C:\GitHub\netbox-docker
+[2026-10-19 15:40:56] Found 0 script file(s) eligible for sorting in netbox-docker.
+[2026-10-19 15:40:56] Sorting finished for netbox-docker. Processed: 0 file(s).
+[2026-10-19 15:53:56] # Script Sorting and Metafile Companion Run Started for Repo: C:\GitHub\netbox-docker
+[2026-10-19 15:53:56] Found 0 script file(s) eligible for sorting in netbox-docker.
+[2026-10-19 15:53:57] Sorting finished for netbox-docker. Processed: 0 file(s).
+[2026-10-19 16:01:08] # Script Sorting and Metafile Companion Run Started for Repo: C:\GitHub\netbox-docker
+[2026-10-19 16:01:08] Found 0 script file(s) eligible for sorting in netbox-docker.
+[2026-10-19 16:01:08] Sorting finished for netbox-docker. Processed: 0 file(s).
+[2026-10-19 16:20:54] # Script Sorting and Metafile Companion Run Started for Repo: C:\GitHub\netbox-docker
+[2026-10-19 16:20:54] Found 0 script file(s) eligible for sorting in netbox-docker.
+[2026-10-19 16:20:54] Sorting finished for netbox-docker. Processed: 0 file(s).
+[2026-10-19 16:40:56] # Script Sorting and Metafile Companion Run Started for Repo: C:\GitHub\netbox-docker
+[2026-10-19 16:40:56] Found 0 script file(s) eligible for sorting in netbox-docker.
+[2026-10-19 16:40:56] Sorting finished for netbox-docker. Processed: 0 file(s).
+[2026-10-19 17:01:02] # Script Sorting and Metafile Companion Run Started for Repo: C:\GitHub\netbox-docker
+[2026-10-19 17:01:02] Found 0 script file(s) eligible for sorting in netbox-docker.
+[2026-10-19 17:01:02] Sorting finished for netbox-docker. Processed: 0 file(s).
+[2026-10-19 17:20:53] # Script Sorting and Metafile Companion Run Started for Repo: C:\GitHub\netbox-docker
+[2026-10-19 17:20:53] Found 0 script file(s) eligible for sorting in netbox-docker.
+[2026-10-19 17:20:53] Sorting finished for netbox-docker. Processed: 0 file(s).
+[2026-10-19 17:40:59] # Script Sorting and Metafile Companion Run Started for Repo: C:\GitHub\netbox-docker
+[2026-10-19 17:40:59] Found 0 script file(s) eligible for sorting in netbox-docker.
+[2026-10-19 17:40:59] Sorting finished for netbox-docker. Processed: 0 file(s).
+[2026-10-19 17:53:56] # Script Sorting and Metafile Companion Run Started for Repo: C:\GitHub\netbox-docker
+[2026-10-19 17:53:56] Found 0 script file(s) eligible for sorting in netbox-docker.
+[2026-10-19 17:53:56] Sorting finished for netbox-docker. Processed: 0 file(s).
+[2026-10-19 18:01:06] # Script Sorting and Metafile Companion Run Started for Repo: C:\GitHub\netbox-docker
+[2026-10-19 18:01:06] Found 0 script file(s) eligible for sorting in netbox-docker.
+[2026-10-19 18:01:06] Sorting finished for netbox-docker. Processed: 0 file(s).
+[2026-10-19 18:20:55] # Script Sorting and Metafile Companion Run Started for Repo: C:\GitHub\netbox-docker
+[2026-10-19 18:20:55] Found 0 script file(s) eligible for sorting in netbox-docker.
+[2026-10-19 18:20:55] Sorting finished for netbox-docker. Processed: 0 file(s).
+[2026-10-19 18:40:57] # Script Sorting and Metafile Companion Run Started for Repo: C:\GitHub\netbox-docker
+[2026-10-19 18:40:57] Found 0 script file(s) eligible for sorting in netbox-docker.
+[2026-10-19 18:40:57] Sorting finished for netbox-docker. Processed: 0 file(s).
+[2026-10-19 19:00:59] # Script Sorting and Metafile Companion Run Started for Repo: C:\GitHub\netbox-docker
+[2026-10-19 19:00:59] Found 0 script file(s) eligible for sorting in netbox-docker.
+[2026-10-19 19:00:59] Sorting finished for netbox-docker. Processed: 0 file(s).
+[2026-10-19 19:20:54] # Script Sorting and Metafile Companion Run Started for Repo: C:\GitHub\netbox-docker
+[2026-10-19 19:20:54] Found 0 script file(s) eligible for sorting in netbox-docker.
+[2026-10-19 19:20:54] Sorting finished for netbox-docker. Processed: 0 file(s).
+[2026-10-19 19:40:55] # Script Sorting and Metafile Companion Run Started for Repo: C:\GitHub\netbox-docker
+[2026-10-19 19:40:55] Found 0 script file(s) eligible for sorting in netbox-docker.
+[2026-10-19 19:40:55] Sorting finished for netbox-docker. Processed: 0 file(s).
+[2026-10-19 19:53:56] # Script Sorting and Metafile Companion Run Started for Repo: C:\GitHub\netbox-docker
+[2026-10-19 19:53:56] Found 0 script file(s) eligible for sorting in netbox-docker.
+[2026-10-19 19:53:56] Sorting finished for netbox-docker. Processed: 0 file(s).
+[2026-10-19 20:01:07] # Script Sorting and Metafile Companion Run Started for Repo: C:\GitHub\netbox-docker
+[2026-10-19 20:01:07] Found 0 script file(s) eligible for sorting in netbox-docker.
+[2026-10-19 20:01:07] Sorting finished for netbox-docker. Processed: 0 file(s).
+[2026-10-19 20:20:54] # Script Sorting and Metafile Companion Run Started for Repo: C:\GitHub\netbox-docker
+[2026-10-19 20:20:54] Found 0 script file(s) eligible for sorting in netbox-docker.
+[2026-10-19 20:20:54] Sorting finished for netbox-docker. Processed: 0 file(s).
+[2026-10-19 20:40:56] # Script Sorting and Metafile Companion Run Started for Repo: C:\GitHub\netbox-docker
+[2026-10-19 20:40:56] Found 0 script file(s) eligible for sorting in netbox-docker.
+[2026-10-19 20:40:56] Sorting finished for netbox-docker. Processed: 0 file(s).
+[2026-10-19 21:01:01] # Script Sorting and Metafile Companion Run Started for Repo: C:\GitHub\netbox-docker
+[2026-10-19 21:01:01] Found 0 script file(s) eligible for sorting in netbox-docker.
+[2026-10-19 21:01:01] Sorting finished for netbox-docker. Processed: 0 file(s).
+[2026-10-19 21:20:54] # Script Sorting and Metafile Companion Run Started for Repo: C:\GitHub\netbox-docker
+[2026-10-19 21:20:54] Found 0 script file(s) eligible for sorting in netbox-docker.
+[2026-10-19 21:20:54] Sorting finished for netbox-docker. Processed: 0 file(s).
+[2026-10-19 21:40:56] # Script Sorting and Metafile Companion Run Started for Repo: C:\GitHub\netbox-docker
+[2026-10-19 21:40:56] Found 0 script file(s) eligible for sorting in netbox-docker.
+[2026-10-19 21:40:56] Sorting finished for netbox-docker. Processed: 0 file(s).
+[2026-10-19 21:53:57] # Script Sorting and Metafile Companion Run Started for Repo: C:\GitHub\netbox-docker
+[2026-10-19 21:53:57] Found 0 script file(s) eligible for sorting in netbox-docker.
+[2026-10-19 21:53:57] Sorting finished for netbox-docker. Processed: 0 file(s).
+[2026-10-19 22:01:05] # Script Sorting and Metafile Companion Run Started for Repo: C:\GitHub\netbox-docker
+[2026-10-19 22:01:05] Found 0 script file(s) eligible for sorting in netbox-docker.
+[2026-10-19 22:01:05] Sorting finished for netbox-docker. Processed: 0 file(s).
+[2026-10-19 22:20:53] # Script Sorting and Metafile Companion Run Started for Repo: C:\GitHub\netbox-docker
+[2026-10-19 22:20:53] Found 0 script file(s) eligible for sorting in netbox-docker.
+[2026-10-19 22:20:53] Sorting finished for netbox-docker. Processed: 0 file(s).
+[2026-10-19 22:40:57] # Script Sorting and Metafile Companion Run Started for Repo: C:\GitHub\netbox-docker
+[2026-10-19 22:40:57] Found 0 script file(s) eligible for sorting in netbox-docker.
+[2026-10-19 22:40:57] Sorting finished for netbox-docker. Processed: 0 file(s).
+[2026-10-19 23:01:01] # Script Sorting and Metafile Companion Run Started for Repo: C:\GitHub\netbox-docker
+[2026-10-19 23:01:01] Found 0 script file(s) eligible for sorting in netbox-docker.
+[2026-10-19 23:01:01] Sorting finished for netbox-docker. Processed: 0 file(s).
