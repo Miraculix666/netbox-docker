@@ -12,3 +12,16 @@ configuration/ldap/*
 !configuration/logging.py
 !configuration/plugins.py
 super-linter.log
+
+# Auto-Appended Universal Hygiene Rules
+*.gguf
+*.iso
+*.vmdk
+*.vhdx
+node_modules/
+.venv/
+venv/
+__pycache__/
+*.pyc
+_local_backups/
+/logs/
