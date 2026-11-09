@@ -1,5 +1,5 @@
 ﻿# 📋 Ausstehende Aufgaben & Drift-Behebung für 'netbox-docker'
-> Automatisch generiert durch Nightly Agentic Audit am 2026-11-08 02:36:55
+> Automatisch generiert durch Nightly Agentic Audit am 2026-11-09 02:38:13
 > Diese Punkte konnten nachts nicht vollautomatisch ohne Richtungsentscheidung gelöst werden und erfordern Aufmerksamkeit.
 
 ## 🔴 Offene Handlungsempfehlungen
